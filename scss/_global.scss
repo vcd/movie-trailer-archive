@@ -5,6 +5,17 @@ $primary-color: gold;
 $secondary-color: purple;
 
 // Typography
+header h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header .char4 {
+    background: red;
+    color: white;
+    padding: 1em;
+}
 
 // Video Player Styling
 video {
